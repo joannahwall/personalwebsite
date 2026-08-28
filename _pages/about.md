@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Researcher Linguistics and Language Variation @ Meertens Institute. Guest researcher @ Utreccht University.
 
 profile:
   align: right
